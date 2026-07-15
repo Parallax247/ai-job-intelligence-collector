@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local browser state and credentials
+user_data/
+.chrome-profile/
+*.cookies.json
+
+# Runtime data
+/data/*
+!/data/.gitkeep
+/logs/
+/outputs/
+/backups/
+*.pid
+*.log
+*.jsonl
+*.xlsx
+~$*.xlsx
+
+# Local configuration
+.env
+config.local.json
+
+# OS / editors
+.DS_Store
+__MACOSX/
+.idea/
+.vscode/
