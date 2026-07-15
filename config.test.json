@@ -1,0 +1,15 @@
+{
+  "platform": "boss",
+  "jobs_per_keyword": 2,
+  "search_keywords": [
+    "trading systems operations",
+    "quantitative trading support"
+  ],
+  "city": "Shanghai",
+  "experience": "",
+  "education": "",
+  "salary": "",
+  "save_mode": "snapshot",
+  "wait_seconds_min": 1,
+  "wait_seconds_max": 2
+}

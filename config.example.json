@@ -1,0 +1,16 @@
+{
+  "platform": "boss",
+  "jobs_per_keyword": 10,
+  "search_keywords": [
+    "quantitative trading support",
+    "trading systems operations",
+    "financial software testing"
+  ],
+  "city": "Shanghai",
+  "experience": "",
+  "education": "",
+  "salary": "",
+  "save_mode": "snapshot",
+  "wait_seconds_min": 6,
+  "wait_seconds_max": 10
+}
